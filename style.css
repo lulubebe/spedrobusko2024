@@ -1,6 +1,10 @@
 header {
     background-color: #d338d3;
     color: rgb(255, 114, 248);
+    margin: 0;
+    padding: 0;
+    display:block ;
+    justify-content: space-around;
 }
 
 .titulo{
