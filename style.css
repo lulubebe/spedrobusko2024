@@ -6,4 +6,7 @@ header {
 .titulo{
     font-size: 40px;
     text-align: center;
+    color: #7A0667; 
+    font-style: italic;
+
 }
