@@ -2,3 +2,7 @@ header {
     background-color: #d338d3;
     color: rgb(255, 114, 248);
 }
+
+.titulo{
+    font-size: 40px;
+}
