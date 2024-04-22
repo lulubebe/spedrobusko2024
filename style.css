@@ -45,7 +45,8 @@ padding: 30px;
 
 .estudante-div{
     text-align: center;
-    padding:16px 0;
+    padding:26px 0;
+    font-size: medium;
 
 }
 
@@ -54,7 +55,7 @@ padding: 30px;
 .estudante-titulo{
  text-align: center;
  padding: 50px 0;
-
+font-size: medium;
 }
 
 .estudante-todos{
