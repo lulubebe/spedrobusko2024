@@ -47,7 +47,7 @@ header {
 .estudante-div{
     text-align: center;
     padding:26px 0;
-    font-size: 20px;
+    font-size: 40px;
 
 }
 
@@ -61,10 +61,3 @@ header {
 .estudante-todos{
     display: grid;
     grid-template-columns: 20%  20% 20% 20% 20%
-}
-
-.rodape{
-    background-color: #34092D;
-    text-align: center;
-    border-radius: 10px;
-}
