@@ -26,8 +26,7 @@ header {
     color:#5C044E ;
      font-style: italic;
  }
-
-    
+   
 .escola {
     margin-left: 100px;
     margin-top: 200px;
@@ -38,12 +37,12 @@ header {
 }
 .escola-imagem{
     margin-left: 700px;
+    height: 200px;
 }
 
 .estudante {
     padding: 24px;
 }
-
 
 .estudante-div{
     text-align: center;
@@ -69,8 +68,3 @@ header {
     text-align: center;
     border-radius: 10px;
 }
- .texto1{
-    font-size: 30px;
-    text-align: center;
-}
- 
