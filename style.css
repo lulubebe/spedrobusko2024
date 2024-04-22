@@ -13,7 +13,6 @@ header {
 }
 
 
-
 .titulo1{
     font-size: 50px;
     text-align: center;
@@ -34,8 +33,7 @@ header {
     margin-top: 200px;
     margin-right: 1550px;;
     background-color:#ec6ac1;
-padding: 30px;
-height: 300px;
+    height: 300px;
     
 }
 .escola-imagem{
@@ -55,9 +53,9 @@ height: 300px;
 }
 
 .estudante-titulo{
- text-align: center;
- padding: 50px 0;
- font-size: 50px;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 50px;
 /*/ background-color:#46alcf;/*/
 }
 
@@ -67,9 +65,9 @@ height: 300px;
 }
 
 .rodape{
-background-color: #34092D;
-text-align: center;
-border-radius: 10px;
+    background-color: #34092D;
+    text-align: center;
+    border-radius: 10px;
 }
  .texto1{
     font-size: 30px;
