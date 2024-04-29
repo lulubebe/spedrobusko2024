@@ -37,7 +37,7 @@ body{
 }
 .escola-imagem{
     margin-left: 1100px;
-    margin-bottom: 1100px;
+    margin-bottom: 800px;
     
 }
 
@@ -49,10 +49,7 @@ body{
     text-align: center;
     padding:26px 0;
     font-size: 40px;
-
-}
-.texto1{
-    font-size: 40px;
+;
 }
 
 .estudante-titulo{
