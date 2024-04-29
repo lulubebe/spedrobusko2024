@@ -51,6 +51,9 @@ body{
     font-size: 40px;
 
 }
+.texto1{
+    font-size: 40px;
+}
 
 .estudante-titulo{
     text-align: center;
@@ -62,3 +65,5 @@ body{
 .estudante-todos{
     display: grid;
     grid-template-columns: 20%  20% 20% 20% 20%
+    
+}
