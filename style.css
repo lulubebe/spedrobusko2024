@@ -63,6 +63,13 @@ body{
     padding: 50px 0;
     font-size: 50px;
 /*/ background-color:#46alcf;/*/
+font-size: 80px;
+text-align: center;
+color: #DE61C3;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: #051102;
+font-style: italic;
+font-family: sans-serif;
 }
 
 .estudante-todos{
