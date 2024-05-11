@@ -65,9 +65,9 @@ body{
 /*/ background-color:#46alcf;/*/
 font-size: 80px;
 text-align: center;
-color: #DE61C3;
+color: #e017b4;
 -webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: #051102;
+-webkit-text-stroke-color: #580648;
 font-style: italic;
 font-family: sans-serif;
 }
@@ -81,5 +81,6 @@ font-family: sans-serif;
     font-size: 50px;
     text-align:center;
     margin-left: 850px;
+    margin-bottom: 100px;
     
 }
