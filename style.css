@@ -1,5 +1,5 @@
 header {
-    background-image:linear-gradient(to top, #ec9af3, #ce02f2);
+    background-image:linear-gradient(to top, #ec9af3, #d500fbb0);
     margin: 50;
     padding: 50;
     display:block ;
@@ -35,7 +35,7 @@ body{
     margin-left: 200px;
     margin-top: 200px;
     margin-right: 1600px;;
-    background-color:#ce02f2;
+    background-color:#ce02f250;
     height: 300px;
     
 }
