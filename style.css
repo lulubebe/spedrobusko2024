@@ -91,5 +91,11 @@ font-family: sans-serif;
     background-color:#ce02f250;
     height: 550px;
  
-    
+}
+.quadro-escola{
+    background-color: #6eecf5a6; 
+    margin-left: 500px; 
+    margin-right: 200px; 
+    margin-top: 100px; 
+    block-size: 150px
 }
