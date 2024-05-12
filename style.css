@@ -93,10 +93,12 @@ font-family: sans-serif;
  
 }
 .quadro-escola{
-    background-color: #6eecf5a6; 
-    margin-left: 500px; 
-    margin-right: 200px; 
-    margin-top: 100px; 
-    block-size: 150px
-    
+    margin-left: 450px;
+    margin-top: 1500px;
+    margin-right: 300px;
+    margin-bottom: 1400;
+    height: 550px;
+    font-size: 70px;
+   text-align: center;
+   font-style: italic;
 }
