@@ -41,6 +41,7 @@ body{
     font-size: 60px;
    text-align: center;
    font-style: italic;
+   background-image:linear-gradient(to top, #c34bce, #f0aafd);
 }
 .escola-imagem{
     margin-left: 450px ;
