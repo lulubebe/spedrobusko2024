@@ -1,7 +1,7 @@
 header {
     background-image:linear-gradient(to top, #c34bce, #f0aafd);
-    margin: 70;
-    padding: 70;
+    margin: 80;
+    padding: 80;
     display:block ;
     justify-content: space-around;
     padding: 44px;
@@ -14,9 +14,9 @@ body{
 
 
 .titulo1{
-    font-size: 60px;
+    font-size: 70px;
     text-align: center;
-    color: #3f0946;
+    color: #70057e;
     font-size: italic;
 }
 
