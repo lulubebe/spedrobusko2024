@@ -40,7 +40,7 @@ body{
     font-size: 70px;
    text-align: center;
    font-style: italic;
-   background-image:linear-gradient(to top, #c34bce, #f0aafd);
+   background-image:linear-gradient(to top, #f0aafd, #c34bce);
 }
 .escola-imagem{
     margin-left: 450px ;
