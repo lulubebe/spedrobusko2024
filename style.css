@@ -30,9 +30,7 @@ body{
     font-family: sans-serif;
     
  }
- .titulo3{
-    font-size: 60px;
- }
+ 
    
 .escola {
     margin-left: 400px;
@@ -40,6 +38,7 @@ body{
     margin-right: 1600px;;
     background-color:#ce02f250;
     height: 300px;
+    font-size: 30px;
     
 }
 .escola-imagem{
